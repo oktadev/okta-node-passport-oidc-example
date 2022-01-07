@@ -54,8 +54,8 @@ npm start
 
 ## Help
 
-Please post any questions as comments on the [blog post][blog], or visit our [Okta Developer Forums](https://devforum.okta.com/).
+Please post any questions as comments on the [blog post][https://developer.okta.com/blog/2018/05/18/node-authentication-with-passport-and-oidc], or visit our [Okta Developer Forums](https://devforum.okta.com/).
 
 ## License
 
-MIT, see [LICENSE](LICENSE).
+Apache 2.0, see [LICENSE](LICENSE).
